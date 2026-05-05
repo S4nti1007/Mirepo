@@ -1,6 +1,6 @@
 # Programa para imprimir ciudades de colombia 
 
-print("cali")
+print("pasto")
 print("Bogotá")
 print("Medellin")
 print("Ibagué")
